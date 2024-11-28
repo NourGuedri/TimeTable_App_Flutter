@@ -1,0 +1,13 @@
+#Thu Nov 28 02:57:43 CET 2024
+base.0=C\:\\Users\\guedr\\Downloads\\time_table-main\\time_table-main\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\guedr\\Downloads\\time_table-main\\time_table-main\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\guedr\\Downloads\\time_table-main\\time_table-main\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
+base.3=C\:\\Users\\guedr\\Downloads\\time_table-main\\time_table-main\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=12/classes.dex
+path.3=1/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
